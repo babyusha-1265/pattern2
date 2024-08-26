@@ -12,7 +12,7 @@ void pattern2(int n){
 int main() {
     int n;
     scanf("%d",&n);
-    pattern1(n);
+    pattern2(n);
 
     return 0;
 }
